@@ -1,7 +1,7 @@
 # continuous-deployment
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff) ![GitHub License](https://img.shields.io/github/license/Weebywoo/CICD)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Weebywoo&repo=CICD)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Weebywoo&repo=continuous-deployment)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Logging
 
