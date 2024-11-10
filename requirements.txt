@@ -1,0 +1,6 @@
+fastapi
+docker
+gitpython
+ngrok
+uvicorn
+tinydb
